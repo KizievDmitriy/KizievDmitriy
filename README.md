@@ -13,7 +13,7 @@
   <li>:rocket: A person who has not made mistakes has never tried to do something differently.</li>
 </ul>
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
-<div align="center" display="grid" gap="10%">
+<div align="center" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -28,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
 </div>
-
+<hr height="1px"/>
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KizievDmitriy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
